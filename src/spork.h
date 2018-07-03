@@ -95,7 +95,7 @@ private:
 public:
 
     CSporkManager() {
-        strMainPubKey = "04daa222db602fd03baaba0c7195f9d4c1805b3ff5d3efbc0fa72df0489c1a424a96ebd204fc52ed25778c2bc50b33238c755fb2b88661be10ac5e00e0f206ee91";
+        strMainPubKey = "043980641310bc898ceaebe6ef9b4332cdace8cfbaaef37c0e8a81502b154896cd7186783af8bef89923ef8c10c94bfeb0907d51e48ede5e5c0a210ae79ff0644a";
         strTestPubKey = "04d2d51c28e5b99b4043a43fa2e11febe44b0117a3021d2fa6e0ab11c2b58536a3fe101b8fd55e554783e7c5759f90d7fe3d61d8996a2dd9671a4041247ac18a3d";
     }
 
